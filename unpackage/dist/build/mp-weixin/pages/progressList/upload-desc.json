@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "图片信息",
+  "backgroundColor": "#f5f5f5",
+  "usingComponents": {
+    "u-form": "/node-modules/uview-ui/components/u-form/u-form",
+    "u-row": "/node-modules/uview-ui/components/u-row/u-row",
+    "u-col": "/node-modules/uview-ui/components/u-col/u-col",
+    "u-image": "/node-modules/uview-ui/components/u-image/u-image",
+    "u-loading": "/node-modules/uview-ui/components/u-loading/u-loading",
+    "u-toast": "/node-modules/uview-ui/components/u-toast/u-toast"
+  }
+}

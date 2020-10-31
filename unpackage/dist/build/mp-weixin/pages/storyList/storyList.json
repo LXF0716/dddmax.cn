@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "创业故事",
+  "usingComponents": {
+    "u-card": "/node-modules/uview-ui/components/u-card/u-card"
+  }
+}

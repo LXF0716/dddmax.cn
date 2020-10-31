@@ -1,0 +1,45 @@
+$margin:40rpx;
+
+.wrap {
+	padding: 0 0;
+}
+
+.u-form-item {
+	padding-left: $margin !important;
+	padding-right: $margin !important;
+}
+
+.u-btn {
+	margin: 5rpx $margin;
+}
+
+.guaranteeMethod {
+	height: 110rpx;
+	width: 100%;
+	padding: 20rpx 0;
+	border-bottom: 1px solid $u-border-color;
+}
+.guaranteeLabel {
+	width: 40%;
+	float: left;
+	line-height: 70rpx;
+}
+.guaranteeLabelSelect {
+	line-height: 70rpx;
+	float: left;
+	width: 60%;
+}
+.title {
+	background: $u-bg-color;
+	padding: 10rpx !important;
+	border-left: 2px solid #007aff;
+	.tip {
+		opacity: 0.5;
+	}
+}
+
+/*  市场化经营范围、简介 */
+.textarea{
+	margin-left: $margin !important;
+	margin-right: $margin !important;
+}
